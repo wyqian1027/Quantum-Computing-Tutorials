@@ -8,3 +8,4 @@ Here are some tutorials that we made for quantum computing.
 * [USC Quantum Computing Workshop](https://indico.cern.ch/event/1480598/overview), USC, Feb 28 - Mar 21, 2025
 * [USC Quantum Computing Workshop, Lecture 1](https://github.com/wyqian1027/USC_QC_Workshop_Lecture1), USC, Feb 28
 * [USC Quantum Computing Workshop, Lecture 3](https://github.com/wyqian1027/USC_QC_Workshop_Lecture3), USC, Mar 7
+* [USC_QC_Workshop_HaQatonTSP](https://github.com/wyqian1027/USC_QC_Workshop_HaQatonTSP), USC, Mar 21
