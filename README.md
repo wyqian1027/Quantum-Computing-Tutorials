@@ -9,4 +9,4 @@ Here are some tutorials that we made for quantum computing.
 * [USC Quantum Computing Workshop, Lecture 1](https://github.com/wyqian1027/USC_QC_Workshop_Lecture1), USC, Feb 28, 2025
 * [USC Quantum Computing Workshop, Lecture 3](https://github.com/wyqian1027/USC_QC_Workshop_Lecture3), USC, Mar 7, 2025
 * [USC_QC_Workshop_HaQatonTSP](https://github.com/wyqian1027/USC_QC_Workshop_HaQatonTSP), USC, Mar 21, 2025
-* [USC Master Program: Quantum Simulation, Part 2: Tensor Networks](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks), Nov 18 - 25, 2025
+* [USC Master Program: Quantum Simulation, Part 2: Tensor Networks](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks), USC, Nov 18 - 25, 2025
